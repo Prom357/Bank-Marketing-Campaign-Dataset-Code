@@ -98,9 +98,8 @@ bank-marketing-campaign-prediction/
 
 ## Files Included
 - **Bank_Marketing_Campaign_Prediction_Report.pdf** — Full project report
-- **bank_marketing_analysis.ipynb** — Jupyter Notebook containing the analysis and model development
+- **Code (bank_marketing_analysis.ipynb)** — Jupyter Notebook containing the analysis and model development
 - **bank.csv** — Dataset used for the project
-- **images/** — Charts and visualizations
 
 ---
 
@@ -119,4 +118,3 @@ By using the XGBoost model, the bank can:
 Data Analyst Portfolio Project
 
 - LinkedIn: https://www.linkedin.com/in/promise-okunbor-32926b160/edit/intro/
-- 
