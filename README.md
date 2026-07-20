@@ -72,12 +72,14 @@ Key findings from the analysis:
 
 ---
 
-## Business Recommendations
-- Prioritize customers who responded positively in previous campaigns.
-- Use mobile communication as the primary contact channel.
-- Apply the XGBoost model for customer targeting.
-- Use loan status as part of customer segmentation.
-- Monitor and update the model regularly using recent campaign data.
+
+## Key Business Impact
+By using the XGBoost model, the bank can:
+
+- Improve customer targeting
+- Increase campaign efficiency
+- Reduce unnecessary marketing costs
+- Make more effective data-driven marketing decisions
 
 ---
 
@@ -89,14 +91,12 @@ Key findings from the analysis:
 
 ---
 
-## Key Business Impact
-By using the XGBoost model, the bank can:
-
-- Improve customer targeting
-- Increase campaign efficiency
-- Reduce unnecessary marketing costs
-- Make more effective data-driven marketing decisions
-
+## Business Recommendations
+- Prioritize customers who responded positively in previous campaigns.
+- Use mobile communication as the primary contact channel.
+- Apply the XGBoost model for customer targeting.
+- Use loan status as part of customer segmentation.
+- Monitor and update the model regularly using recent campaign data.
 ---
 
 ## Author
