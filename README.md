@@ -81,20 +81,6 @@ Key findings from the analysis:
 
 ---
 
-## Repository Structure
-
-```text
-bank-marketing-campaign-prediction/
-│
-├── README.md
-├── Bank_Marketing_Campaign_Prediction_Report.pdf
-├── bank_marketing_analysis.ipynb
-├── bank.csv
-└── images/
-    └── xgboost_feature_importance.png
-```
-
----
 
 ## Files Included
 - **Bank_Marketing_Campaign_Prediction_Report.pdf** — Full project report
